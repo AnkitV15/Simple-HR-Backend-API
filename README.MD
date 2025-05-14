@@ -2,7 +2,7 @@
 # Simple HR Backend API
 
 ## Description
-A simple RESTful backend API for managing employee data, built with Python, Flask, and SQLAlchemy.
+This project is a simple backend API designed to perform basic Create, Read, Update, and Delete (CRUD) operations for employee records. It is built using Python with the Flask web framework and utilizes Flask-SQLAlchemy for database interactions with SQLite. This API can serve as a foundation for a basic Human Resources management system.
 
 ## Technologies Used
 * Python
